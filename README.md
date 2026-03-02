@@ -1,5 +1,6 @@
 # cse423_project_coincollector
 its a computer graphics project
+Here opengl functions are used.
 Game Features
 Game Title: CoinQuest 3D
 
